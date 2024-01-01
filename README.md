@@ -16,6 +16,7 @@
 | 2021.08~2021.12 | Boostcamp AI Tech 2nd | **NAVER CONNECT** |
 |	2016.03~2023.02 |	Department of Statistics |	**Pusan National University** |
 
+### [Portfolio](https://www.notion.so/09dfb64be5ac44e7a30b873e8d76b7d2)
 
 ### Projects & Competitions
 
