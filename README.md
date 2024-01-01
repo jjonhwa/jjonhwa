@@ -28,6 +28,4 @@
 | 2022.06.07 ~ 2022.06.21 | 2022 AI Online Competition - Retrieval task | Find the Document that most closely resembles the question / Top 6 out of 49 teams | **NIPA**|
 | 2022.01 ~ 2022.02 | [Korean Sentence Classification Competition](https://github.com/jjonhwa/KLUE-NLI) | NLI Task / Top 10 out of 468 teams | **DACON**|
 | 2022.01 ~ 2022.02 | [Object Detection](https://github.com/jjonhwa/AI_SPARK_CHALLENG_Object_Detection) | Livestock(pig & cow) Detection / Top 13 out of 443 people | **AI Factory**|
-| 2021.10 ~ 2021.11 | [Open-Domain Question-Answering](https://github.com/jjonhwa/Cross-Encoder-with-Bi-Encoder) | ODQA  | **NAVER Boostcamp AI Tech**|
-| 2021.10 | [Relation Extraction](https://github.com/jjonhwa/KLUE-Relation_Extraction) | RE  | **NAVER Boostcamp AI Tech**|
 | 2021.07 ~ 2021.08 | [Statistical data analysis and utilization contest](https://github.com/jjonhwa/Policy-to-utilize-DT-in-traditional-markets) | Presenting government policies to revive traditional markets using DriveTroughCenter / Top 2 out of 154 teams | KOSTAT |
