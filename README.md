@@ -5,14 +5,15 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjonhwa)](https://github.com/jjonhwa/github-readme-stats)
 
 ### Now,
-- NLP, Educational AI
+- NLP
 
 
 ### Experience
 
 | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|
-| 2022.12~ | AI Researcher | **Glorang** |
+| 2024.03~ | NLP Engineer | **SelectStar** |
+| 2022.12~2024.03 | AI Researcher | **Glorang** |
 | 2021.08~2021.12 | Boostcamp AI Tech 2nd | **NAVER CONNECT** |
 |	2016.03~2023.02 |	Department of Statistics |	**Pusan National University** |
 
