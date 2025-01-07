@@ -1,16 +1,15 @@
 <a href="https://jjonhwa.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Blog-brightgreen?style=plastic&logo=#00ED00&logoColor=57B118"/></a>
 
 ### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjonhwa)](https://github.com/jjonhwa/github-readme-stats)
 
 <a href="https://github.com/jjonhwa/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/hbin12212?pet-id=642212583922701813"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/jjonhwa"
+  width="600"
+  height="300"
+/>
 </a>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjonhwa)](https://github.com/jjonhwa/github-readme-stats)
 
 ### Now,
 - NLP
