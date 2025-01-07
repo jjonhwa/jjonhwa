@@ -3,12 +3,8 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjonhwa)](https://github.com/jjonhwa/github-readme-stats)
 
-<a href="https://github.com/jjonhwa/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/jjonhwa"
-  width="600"
-  height="300"
-/>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/jjonhwa"/>
 </a>
 
 ### Now,
