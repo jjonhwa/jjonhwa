@@ -1,5 +1,11 @@
 <a href="https://jjonhwa.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Blog-brightgreen?style=plastic&logo=#00ED00&logoColor=57B118"/></a>
-
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/hbin12212?pet-id=642212583922701813"
+    width="600"
+    height="120"
+  />
+</a>
 ### Hi there 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjonhwa)](https://github.com/jjonhwa/github-readme-stats)
